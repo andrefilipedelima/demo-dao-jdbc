@@ -1,4 +1,4 @@
-package db;
+package db1;
 
 public class DbIntegrityException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
